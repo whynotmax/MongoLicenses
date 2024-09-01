@@ -16,7 +16,7 @@ This project is a simple example of how to use MongoDB with Java and Spring Boot
 - `GET /api/v1/licenses`: Get all licenses
 - `GET /api/v1/licenses/{id}/create`: Get a license by id
 - `POST /api/v1/licenses`: Create a new license
-- `GET /api/v1/licenses/{id}/validate`: Validate a license by id*
+- `GET /api/v1/licenses/{id}/validate`: Validate a license by id<sup>*</sup>
 - `PUT /api/v1/licenses/{id}`: Update a license by id
 - `DELETE /api/v1/licenses/{id}`: Delete a license by id
 

@@ -1,4 +1,4 @@
-# MongoLicenses
+# MongoLicenses - Client available [here](https://github.com/whynotmax/MongoLicenses-Client/)
 This project is a simple example of how to use MongoDB with Java and Spring Boot. It is a simple CRUD application that allows you to create, read, update, and delete licenses for any product you'd like.
 
 ## Requirements
